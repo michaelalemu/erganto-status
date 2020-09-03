@@ -2,9 +2,9 @@
 section: issue
 title: Störung bei der Anmeldung
 date: 2020-09-03T18:09:10.457Z
-resolved: false
+resolved: true
 informational: false
-resolvedWhen: 2020-09-03T18:09:10.470Z
+resolvedWhen: 2020-09-03T18:16:57.440Z
 affected:
   - erganto Accounts
   - erganto Workspaces
