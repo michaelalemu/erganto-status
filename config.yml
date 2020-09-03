@@ -122,8 +122,7 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
     - name: Deutschland
-      description: The main servers are located here.
-      closed: true
+      description: Hier befinden sich die Hauptserver.
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -167,7 +166,7 @@ params:
   #
   # Default: `yearly`
   # STRING; `monthly`, `yearly`, `none`
-  incidentHistoryFormat: "yearly"
+  incidentHistoryFormat: "monthly"
 
   # Disable dark mode
   #
@@ -189,7 +188,7 @@ params:
   #
   # Default: false
   # BOOLEAN; `true`, `false`
-  useLogo: true
+  useLogo: false
 
   # Where is the logo located, if one is
   # present at all?
@@ -205,7 +204,7 @@ params:
   # on the footer and meta tags.
   #
   # Default: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
-  description: We continuously monitor the status of our services and if there are any interruptions, a note will be posted here.
+  description: Wir überwachen kontinuierlich den Status unserer Dienste. Falls es zu Unterbrechungen kommt, wird hier eine Mitteilung veröffentlicht.
 
   # Tabs on homepage
   # Uncomment to enable.
