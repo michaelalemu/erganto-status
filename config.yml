@@ -188,7 +188,7 @@ params:
   #
   # Default: false
   # BOOLEAN; `true`, `false`
-  useLogo: false
+  useLogo: true
 
   # Where is the logo located, if one is
   # present at all?
@@ -211,9 +211,8 @@ params:
   #
   # Format:
   # customTabs:
-  #  -
-  #    name: Name
-  #    link: https://example.com
+  - name: erganto
+    link: https://erganto.de
 
   # Disable complex server-side
   # calculations that may impact
