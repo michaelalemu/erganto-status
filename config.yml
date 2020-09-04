@@ -210,9 +210,9 @@ params:
   # Uncomment to enable.
   #
   # Format:
-  # customTabs:
-  - name: erganto
-    link: https://erganto.de
+  customTabs:
+    - name: erganto
+      link: https://erganto.de
 
   # Disable complex server-side
   # calculations that may impact
